@@ -1,0 +1,9 @@
+.box{
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 10px;
+}
+.faqSection{
+    padding: 10px;
+    background-color: whitesmoke;
+}

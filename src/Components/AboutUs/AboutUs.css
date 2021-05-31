@@ -1,0 +1,23 @@
+.top-header{
+    background-color: teal;
+    color: turquoise;
+    width:100% ;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.span-text{
+    color:white;
+}
+.paratext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
